@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-model = joblib.load("models/load_forecast_model.pkl")
+model = joblib.load("load_forecast_model.pkl")
 
 st.title("⚡ AI-Powered Intelligent Load Forecasting System")
 
