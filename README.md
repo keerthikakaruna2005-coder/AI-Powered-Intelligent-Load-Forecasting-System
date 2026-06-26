@@ -1,4 +1,12 @@
-INTELLIGENT LOAD FORECASTING FOR SMART DISTRIBUTION NETWORKS
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
+
+# Hi, I'm Keerthika K 👋
+
+Electrical & Electronics Engineering Student
+
+AI • Machine Learning • Python • MATLAB • SQL • StreamlitINTELLIGENT LOAD FORECASTING FOR SMART DISTRIBUTION NETWORKS
 
 
 
