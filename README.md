@@ -207,7 +207,15 @@ Benefits:
 • Demand Side Management
 
 • Power System Planning
+<p align="center">
+  <img src="images/banner.png" width="100%">
+</p>
 
+# Hi, I'm Keerthika K 👋
+
+Electrical & Electronics Engineering Student
+
+AI • Machine Learning • Python • MATLAB • SQL • Streamlit
 
 
 12\. FUTURE SCOPE
